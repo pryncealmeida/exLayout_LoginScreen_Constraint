@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">exLayout_LoginScreen_Constraint</string>
+    <string name="msg_cadastro">Ainda não é cadastrado? Cadastre-se!</string>
+    <string name="email">EMAIL</string>
+    <string name="senha">SENHA</string>
+    <string name="login">LOGIN</string>
+    <string name="dicaEmail">Preencha seu email</string>
+    <string name="dicaSenha">Insira a senha</string>
 </resources>
